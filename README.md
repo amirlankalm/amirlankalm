@@ -1,7 +1,6 @@
-# yo, i'm amirka 👋
+# yo, i'm amirlan
 
 **15 y/o cto & co-founder @ [extensy](https://extensy.dev)**  
-student. vibecoder. building things that probably shouldn't exist yet.
 
 ---
 
