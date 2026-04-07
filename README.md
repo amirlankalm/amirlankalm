@@ -1,10 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Animated futuristic banner" width="100%" />
-</div>
-
-<div align="center">
-
-# yo, i'm amirlan
+  <img src="./assets/title-cycle.svg" alt="yo, i'm amirlan" width="470" />
 
 ### 15 y/o cto & co-founder @ [extensy](https://extensy.dev)
 
