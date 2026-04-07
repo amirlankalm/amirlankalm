@@ -55,7 +55,21 @@
 
   <g fill="#E8FFF2">
     <text x="74" y="212" font-family="Courier New, monospace" font-size="88" font-weight="700" letter-spacing="-2">YO, I'M</text>
-    <text x="74" y="304" font-family="Courier New, monospace" font-size="116" font-weight="700" letter-spacing="-4">AMIRLAN</text>
+    <text x="74" y="304" font-family="Courier New, monospace" font-size="116" font-weight="700" letter-spacing="-4">AMIRLAN
+      <animate attributeName="opacity" values="1;1;0;0;0;0;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="74" y="304" font-family="Courier New, monospace" font-size="116" font-weight="700" letter-spacing="-4" opacity="0">ALPHA
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="74" y="304" font-family="Courier New, monospace" font-size="116" font-weight="700" letter-spacing="-4" opacity="0">AMIRKA
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="74" y="304" font-family="Courier New, monospace" font-size="116" font-weight="700" letter-spacing="-4" opacity="0">AMIR
+      <animate attributeName="opacity" values="0;0;0;1;0;0;0" dur="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="74" y="304" font-family="Courier New, monospace" font-size="92" font-weight="700" letter-spacing="-3" opacity="0">AMIRLANKALM
+      <animate attributeName="opacity" values="0;1;0;0;0;0;0" dur="10s" repeatCount="indefinite"/>
+    </text>
   </g>
 
   <g fill="#9FD8B7">
