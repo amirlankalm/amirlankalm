@@ -4,17 +4,17 @@
 
 <div align="center">
 
-# amirlan.exe
+# yo, i'm amirlan
 
-### 15 y/o founder-engineer building products faster than most people finish mockups
+### 15 y/o cto & co-founder @ [extensy](https://extensy.dev)
 
 <p>
-  <a href="https://extensy.dev"><img src="https://img.shields.io/badge/building-extensy-0f172a?style=for-the-badge&labelColor=f4efe7&color=14213d" alt="Building Extensy" /></a>
-  <a href="https://x.com/amirlankalm"><img src="https://img.shields.io/badge/x-@amirlankalm-b08968?style=for-the-badge&labelColor=1b1b1b" alt="X profile" /></a>
-  <a href="https://instagram.com/amirkasobased"><img src="https://img.shields.io/badge/instagram-amirkasobased-c66b3d?style=for-the-badge&labelColor=24160f" alt="Instagram profile" /></a>
+  <img src="https://img.shields.io/badge/mode-online-0b1711?style=for-the-badge&labelColor=030806&color=133121" alt="Online mode" />
+  <img src="https://img.shields.io/badge/theme-dark%20glass-0c120f?style=for-the-badge&labelColor=020504&color=1e4d35" alt="Dark glass theme" />
+  <img src="https://img.shields.io/badge/vibe-pixel%20green-0d140f?style=for-the-badge&labelColor=020504&color=2d7a53" alt="Pixel green vibe" />
 </p>
 
-<sub>operator status: shipping browser tools, backend systems, and whatever else gets the idea live</sub>
+<sub>same README, just cleaned up and pushed into a darker direction</sub>
 
 </div>
 
@@ -24,20 +24,11 @@
   <tr>
     <td width="58%" valign="top">
 
-## what i'm doing
+## what i'm building
 
-I co-founded **[Extensy](https://extensy.dev)** to make browser extension creation feel unfair.
+**[extensy](https://extensy.dev)** — describe what you want, get a fully working browser extension and get it published.
 
-You describe the thing you want.
-We generate the extension.
-We help get it published.
-
-I like building products that feel immediate, sharp, and a little bit dangerous.
-
-```text
-current loop
-idea -> build -> ship -> learn -> repeat louder
-```
+<sub>slightly more styled now, but still the same point</sub>
 
   </td>
     <td width="42%" valign="top">
@@ -57,35 +48,39 @@ idea -> build -> ship -> learn -> repeat louder
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-0f0f10?style=for-the-badge&logo=nextdotjs&logoColor=f3efe6" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-214cce?style=for-the-badge&logo=typescript&logoColor=f8f6f2" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-244d66?style=for-the-badge&logo=postgresql&logoColor=f8f6f2" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-7a4a19?style=for-the-badge&logo=amazonwebservices&logoColor=fdf4dd" alt="AWS" />
-  <img src="https://img.shields.io/badge/C++-214f86?style=for-the-badge&logo=cplusplus&logoColor=f8f6f2" alt="C++" />
-  <img src="https://img.shields.io/badge/Node.js-215732?style=for-the-badge&logo=nodedotjs&logoColor=f4f7ef" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-7b5d16?style=for-the-badge&logo=python&logoColor=f8f3df" alt="Python" />
+  <img src="https://img.shields.io/badge/next.js-08110c?style=for-the-badge&logo=nextdotjs&logoColor=d9ffe8&labelColor=030705&color=102219" alt="Next.js" />
+  <img src="https://img.shields.io/badge/typescript-10271c?style=for-the-badge&logo=typescript&logoColor=d8fff0&labelColor=051009&color=1b4f38" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/postgresql-0d2318?style=for-the-badge&logo=postgresql&logoColor=d8fff0&labelColor=051009&color=24553d" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/aws-112b1d?style=for-the-badge&logo=amazonwebservices&logoColor=e6ffef&labelColor=051009&color=2c6d4c" alt="AWS" />
+  <img src="https://img.shields.io/badge/c++-10241a?style=for-the-badge&logo=cplusplus&logoColor=e0fff0&labelColor=051009&color=22533b" alt="C++" />
+  <img src="https://img.shields.io/badge/node.js-11291c?style=for-the-badge&logo=nodedotjs&logoColor=e6fff2&labelColor=051009&color=2d754f" alt="Node.js" />
+  <img src="https://img.shields.io/badge/python-0f2218?style=for-the-badge&logo=python&logoColor=e6fff2&labelColor=051009&color=1f593d" alt="Python" />
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-## mode
+## what i'm on
 
-- building tools people can actually use
-- obsessed with shipping speed
-- product taste matters as much as code
-- prefer real things over fake demos
+- building stuff people actually use
+- ai products
+- browser extensions
+- backend / infra
 
   </td>
     <td width="50%" valign="top">
 
-## open tabs in my brain
+## find me
 
-- AI products
-- browser extensions
-- infra that scales without getting weird
-- interfaces with taste
+<a href="https://x.com/amirlankalm">
+  <img src="https://img.shields.io/badge/x-0a120e?style=for-the-badge&logo=x&logoColor=e8fff2&labelColor=020504&color=1d4b34" alt="X" />
+</a>
+<br />
+<br />
+<a href="https://instagram.com/amirkasobased">
+  <img src="https://img.shields.io/badge/instagram-0a120e?style=for-the-badge&logo=instagram&logoColor=e8fff2&labelColor=020504&color=2a6d49" alt="Instagram" />
+</a>
 
   </td>
   </tr>
@@ -95,22 +90,8 @@ idea -> build -> ship -> learn -> repeat louder
   <img src="./assets/signal-divider.svg" alt="Animated divider" width="100%" />
 </div>
 
-## find me
-
-<div align="center">
-  <a href="https://extensy.dev">
-    <img src="https://img.shields.io/badge/site-extensy.dev-f2ece2?style=for-the-badge&labelColor=141414&color=8d6a4d" alt="Extensy site" />
-  </a>
-  <a href="https://x.com/amirlankalm">
-    <img src="https://img.shields.io/badge/X-talk%20to%20me-151515?style=for-the-badge&logo=x&logoColor=f5f0e8&labelColor=151515&color=4d4d4d" alt="X" />
-  </a>
-  <a href="https://instagram.com/amirkasobased">
-    <img src="https://img.shields.io/badge/Instagram-DM%20me-2b1a16?style=for-the-badge&logo=instagram&logoColor=f5e6dc&labelColor=2b1a16&color=b45f3f" alt="Instagram" />
-  </a>
-</div>
-
 <p align="center">
-  if you want to try <b>Extensy</b>, message me and i'll probably hook you up with credits.
+  pls try <b>extensy</b> out pls
 </p>
 
 <div align="center">

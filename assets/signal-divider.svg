@@ -1,19 +1,19 @@
 <svg width="1600" height="120" viewBox="0 0 1600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="line" x1="0" y1="60" x2="1600" y2="60" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#171717" stop-opacity="0"/>
-      <stop offset="0.2" stop-color="#8B5E3C"/>
-      <stop offset="0.5" stop-color="#F3EEE5"/>
-      <stop offset="0.8" stop-color="#8B5E3C"/>
-      <stop offset="1" stop-color="#171717" stop-opacity="0"/>
+      <stop stop-color="#04100B" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#1A563A"/>
+      <stop offset="0.5" stop-color="#DFFFF0"/>
+      <stop offset="0.8" stop-color="#1A563A"/>
+      <stop offset="1" stop-color="#04100B" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1600" height="120" fill="#FFFFFF"/>
+  <rect width="1600" height="120" fill="#030705"/>
   <path d="M0 60H1600" stroke="url(#line)" stroke-width="2"/>
-  <circle cx="280" cy="60" r="7" fill="#171717">
+  <circle cx="280" cy="60" r="7" fill="#DFFFF0">
     <animate attributeName="cx" values="280;1320;280" dur="8s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1320" cy="60" r="4" fill="#C48A59">
+  <circle cx="1320" cy="60" r="4" fill="#3CCD7D">
     <animate attributeName="cx" values="1320;280;1320" dur="8s" repeatCount="indefinite"/>
   </circle>
 </svg>

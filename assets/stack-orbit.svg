@@ -1,18 +1,19 @@
 <svg width="1600" height="340" viewBox="0 0 1600 340" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1600" height="340" rx="28" fill="#141414"/>
-  <ellipse cx="800" cy="170" rx="440" ry="112" stroke="#F4EEE5" stroke-opacity="0.2" stroke-width="2"/>
-  <ellipse cx="800" cy="170" rx="320" ry="72" stroke="#F4EEE5" stroke-opacity="0.15" stroke-width="2"/>
-  <circle cx="800" cy="170" r="36" fill="#F2EBE0"/>
-  <text x="752" y="178" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">STACK</text>
+  <rect width="1600" height="340" rx="28" fill="#04100B"/>
+  <rect x="18" y="18" width="1564" height="304" rx="20" fill="#D7FFE8" fill-opacity="0.05" stroke="#D7FFE8" stroke-opacity="0.13"/>
+  <ellipse cx="800" cy="170" rx="440" ry="112" stroke="#D7FFE8" stroke-opacity="0.2" stroke-width="2"/>
+  <ellipse cx="800" cy="170" rx="320" ry="72" stroke="#D7FFE8" stroke-opacity="0.15" stroke-width="2"/>
+  <circle cx="800" cy="170" r="36" fill="#D7FFE8"/>
+  <text x="754" y="178" fill="#07110C" font-family="Courier New, monospace" font-size="20" font-weight="700">STACK</text>
 
-  <g font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+  <g font-family="Courier New, monospace" font-size="22" font-weight="700">
     <g>
-      <circle cx="1240" cy="170" r="28" fill="#C88A57">
+      <circle cx="1240" cy="170" r="28" fill="#2EB870">
         <animateMotion dur="10s" repeatCount="indefinite" rotate="auto">
           <mpath href="#orbitOuter"/>
         </animateMotion>
       </circle>
-      <text x="1218" y="178" fill="#171717">
+      <text x="1218" y="178" fill="#07110C">
         <animateMotion dur="10s" repeatCount="indefinite" rotate="auto">
           <mpath href="#orbitOuter"/>
         </animateMotion>
@@ -20,12 +21,12 @@
       </text>
     </g>
     <g>
-      <circle cx="360" cy="170" r="28" fill="#EEE7DC">
+      <circle cx="360" cy="170" r="28" fill="#D7FFE8">
         <animateMotion dur="12s" repeatCount="indefinite" rotate="auto">
           <mpath href="#orbitOuterReverse"/>
         </animateMotion>
       </circle>
-      <text x="327" y="178" fill="#171717">
+      <text x="327" y="178" fill="#07110C">
         <animateMotion dur="12s" repeatCount="indefinite" rotate="auto">
           <mpath href="#orbitOuterReverse"/>
         </animateMotion>
@@ -33,12 +34,12 @@
       </text>
     </g>
     <g>
-      <circle cx="1120" cy="170" r="24" fill="#6E8CD7">
+      <circle cx="1120" cy="170" r="24" fill="#7DE2A6">
         <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
           <mpath href="#orbitInner"/>
         </animateMotion>
       </circle>
-      <text x="1088" y="178" fill="#F9F6F1">
+      <text x="1088" y="178" fill="#07110C">
         <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
           <mpath href="#orbitInner"/>
         </animateMotion>
@@ -46,12 +47,12 @@
       </text>
     </g>
     <g>
-      <circle cx="480" cy="170" r="24" fill="#4F8A5C">
+      <circle cx="480" cy="170" r="24" fill="#1B5F40">
         <animateMotion dur="9s" repeatCount="indefinite" rotate="auto">
           <mpath href="#orbitInnerReverse"/>
         </animateMotion>
       </circle>
-      <text x="450" y="178" fill="#F4EEE5">
+      <text x="450" y="178" fill="#EFFFF6">
         <animateMotion dur="9s" repeatCount="indefinite" rotate="auto">
           <mpath href="#orbitInnerReverse"/>
         </animateMotion>
@@ -60,8 +61,8 @@
     </g>
   </g>
 
-  <text x="78" y="60" fill="#F4EEE5" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2.6">TOOLS I REACH FOR</text>
-  <text x="78" y="300" fill="#9D948A" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1.6">next.js / typescript / postgres / aws / c++ / node.js / python</text>
+  <text x="78" y="60" fill="#9CFFC7" font-family="Courier New, monospace" font-size="18" letter-spacing="2.6">STACK</text>
+  <text x="78" y="300" fill="#C6FFE0" font-family="Courier New, monospace" font-size="18" letter-spacing="1.6">next.js / typescript / postgresql / aws / c++ / node.js / python</text>
 
   <defs>
     <path id="orbitOuter" d="M360 170C360 108.144 556.954 58 800 58C1043.05 58 1240 108.144 1240 170C1240 231.856 1043.05 282 800 282C556.954 282 360 231.856 360 170Z"/>

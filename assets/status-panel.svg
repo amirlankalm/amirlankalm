@@ -1,40 +1,40 @@
 <svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="panel" x1="52" y1="36" x2="552" y2="396" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#161616"/>
-      <stop offset="1" stop-color="#2A241F"/>
+      <stop stop-color="#05100B"/>
+      <stop offset="1" stop-color="#10231A"/>
     </linearGradient>
     <linearGradient id="bar" x1="76" y1="0" x2="516" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F4EEE5"/>
-      <stop offset="1" stop-color="#C78955"/>
+      <stop stop-color="#AFFFF2"/>
+      <stop offset="1" stop-color="#2EB870"/>
     </linearGradient>
   </defs>
   <rect width="640" height="420" rx="28" fill="url(#panel)"/>
-  <rect x="28" y="28" width="584" height="364" rx="20" stroke="#F4EEE5" stroke-opacity="0.14"/>
+  <rect x="28" y="28" width="584" height="364" rx="20" fill="#D7FFE8" fill-opacity="0.05" stroke="#D7FFE8" stroke-opacity="0.18"/>
 
-  <text x="54" y="82" fill="#F4EEE5" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2.8">LIVE STATUS</text>
-  <text x="54" y="132" fill="#C68E5D" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">shipping mode</text>
+  <text x="54" y="82" fill="#9CFFC7" font-family="Courier New, monospace" font-size="16" letter-spacing="2.8">STATUS</text>
+  <text x="54" y="132" fill="#E9FFF2" font-family="Courier New, monospace" font-size="38" font-weight="700">what i'm building</text>
 
   <g>
-    <rect x="54" y="174" width="532" height="20" rx="10" fill="#3C362F"/>
+    <rect x="54" y="174" width="532" height="20" rx="10" fill="#1D3429"/>
     <rect x="54" y="174" width="324" height="20" rx="10" fill="url(#bar)">
       <animate attributeName="width" values="220;472;324;418;324" dur="7s" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <g fill="#8B8178" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.4">
-    <text x="54" y="238">focus_01</text>
-    <text x="54" y="278">focus_02</text>
-    <text x="54" y="318">focus_03</text>
+  <g fill="#7DD7A3" font-family="Courier New, monospace" font-size="15" letter-spacing="1.4">
+    <text x="54" y="238">line_01</text>
+    <text x="54" y="278">line_02</text>
+    <text x="54" y="318">line_03</text>
   </g>
 
-  <g fill="#F4EEE5" font-family="Arial, Helvetica, sans-serif" font-size="23">
-    <text x="190" y="238">browser extension generation</text>
-    <text x="190" y="278">fast product execution</text>
-    <text x="190" y="318">taste-driven interfaces</text>
+  <g fill="#F0FFF6" font-family="Courier New, monospace" font-size="22">
+    <text x="190" y="238">describe what you want</text>
+    <text x="190" y="278">get a working extension</text>
+    <text x="190" y="318">get it published</text>
   </g>
 
-  <circle cx="541" cy="94" r="11" fill="#D59A64">
+  <circle cx="541" cy="94" r="11" fill="#54F7A0">
     <animate attributeName="r" values="11;15;11" dur="1.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.55;1;0.55" dur="1.8s" repeatCount="indefinite"/>
   </circle>
