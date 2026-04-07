@@ -1,32 +1,118 @@
-# yo, i'm amirlan
+<div align="center">
+  <img src="./assets/hero.svg" alt="Animated futuristic banner" width="100%" />
+</div>
 
-**15 y/o cto & co-founder @ [extensy](https://extensy.dev)**  
+<div align="center">
 
----
+# amirlan.exe
 
-### what i'm building
+### 15 y/o founder-engineer building products faster than most people finish mockups
 
-**[extensy](https://extensy.dev)** — describe what you want, get a fully working browser extension and get it published.
+<p>
+  <a href="https://extensy.dev"><img src="https://img.shields.io/badge/building-extensy-0f172a?style=for-the-badge&labelColor=f4efe7&color=14213d" alt="Building Extensy" /></a>
+  <a href="https://x.com/amirlankalm"><img src="https://img.shields.io/badge/x-@amirlankalm-b08968?style=for-the-badge&labelColor=1b1b1b" alt="X profile" /></a>
+  <a href="https://instagram.com/amirkasobased"><img src="https://img.shields.io/badge/instagram-amirkasobased-c66b3d?style=for-the-badge&labelColor=24160f" alt="Instagram profile" /></a>
+</p>
 
----
+<sub>operator status: shipping browser tools, backend systems, and whatever else gets the idea live</sub>
 
-### stack
-
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</div>
 
 ---
 
-### find me
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
-[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amirlankalm)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirkasobased)
+## what i'm doing
 
----
+I co-founded **[Extensy](https://extensy.dev)** to make browser extension creation feel unfair.
 
-*pls try extensy out pls, and if u dm me on insta or x i can give u credits*
+You describe the thing you want.
+We generate the extension.
+We help get it published.
+
+I like building products that feel immediate, sharp, and a little bit dangerous.
+
+```text
+current loop
+idea -> build -> ship -> learn -> repeat louder
+```
+
+  </td>
+    <td width="42%" valign="top">
+      <img src="./assets/status-panel.svg" alt="Animated status panel" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/signal-divider.svg" alt="Animated divider" width="100%" />
+</div>
+
+## stack
+
+<div align="center">
+  <img src="./assets/stack-orbit.svg" alt="Animated stack orbit" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-0f0f10?style=for-the-badge&logo=nextdotjs&logoColor=f3efe6" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-214cce?style=for-the-badge&logo=typescript&logoColor=f8f6f2" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-244d66?style=for-the-badge&logo=postgresql&logoColor=f8f6f2" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-7a4a19?style=for-the-badge&logo=amazonwebservices&logoColor=fdf4dd" alt="AWS" />
+  <img src="https://img.shields.io/badge/C++-214f86?style=for-the-badge&logo=cplusplus&logoColor=f8f6f2" alt="C++" />
+  <img src="https://img.shields.io/badge/Node.js-215732?style=for-the-badge&logo=nodedotjs&logoColor=f4f7ef" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-7b5d16?style=for-the-badge&logo=python&logoColor=f8f3df" alt="Python" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+## mode
+
+- building tools people can actually use
+- obsessed with shipping speed
+- product taste matters as much as code
+- prefer real things over fake demos
+
+  </td>
+    <td width="50%" valign="top">
+
+## open tabs in my brain
+
+- AI products
+- browser extensions
+- infra that scales without getting weird
+- interfaces with taste
+
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/signal-divider.svg" alt="Animated divider" width="100%" />
+</div>
+
+## find me
+
+<div align="center">
+  <a href="https://extensy.dev">
+    <img src="https://img.shields.io/badge/site-extensy.dev-f2ece2?style=for-the-badge&labelColor=141414&color=8d6a4d" alt="Extensy site" />
+  </a>
+  <a href="https://x.com/amirlankalm">
+    <img src="https://img.shields.io/badge/X-talk%20to%20me-151515?style=for-the-badge&logo=x&logoColor=f5f0e8&labelColor=151515&color=4d4d4d" alt="X" />
+  </a>
+  <a href="https://instagram.com/amirkasobased">
+    <img src="https://img.shields.io/badge/Instagram-DM%20me-2b1a16?style=for-the-badge&logo=instagram&logoColor=f5e6dc&labelColor=2b1a16&color=b45f3f" alt="Instagram" />
+  </a>
+</div>
+
+<p align="center">
+  if you want to try <b>Extensy</b>, message me and i'll probably hook you up with credits.
+</p>
+
+<div align="center">
+  <img src="./assets/contact-pulse.svg" alt="Animated footer pulse" width="100%" />
+</div>
