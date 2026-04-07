@@ -1,34 +1,16 @@
-<div align="center">
-  <svg width="520" height="72" viewBox="0 0 520 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="yo, i'm amirlan">
-    <text x="0" y="52" fill="#3ecf6d" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">yo, i&#39;m</text>
-    <text x="112" y="52" fill="#3ecf6d" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">amirlan
-      <animate attributeName="opacity" values="1;1;0;0;0;0;1" dur="10s" repeatCount="indefinite"/>
-    </text>
-    <text x="112" y="52" fill="#3ecf6d" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" opacity="0">alpha
-      <animate attributeName="opacity" values="0;0;1;1;0;0;0" dur="10s" repeatCount="indefinite"/>
-    </text>
-    <text x="112" y="52" fill="#3ecf6d" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" opacity="0">amirka
-      <animate attributeName="opacity" values="0;0;0;0;1;1;0" dur="10s" repeatCount="indefinite"/>
-    </text>
-    <text x="112" y="52" fill="#3ecf6d" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" opacity="0">amir
-      <animate attributeName="opacity" values="0;0;0;1;0;0;0" dur="10s" repeatCount="indefinite"/>
-    </text>
-    <text x="112" y="52" fill="#3ecf6d" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" opacity="0">amirlankalm
-      <animate attributeName="opacity" values="0;1;0;0;0;0;0" dur="10s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+# yo, i'm amirlan
 
-### 15 y/o cto & co-founder @ [extensy](https://extensy.dev)
-
-</div>
+**15 y/o cto & co-founder @ [extensy](https://extensy.dev)**  
 
 ---
 
-## what i'm building
+### what i'm building
 
 **[extensy](https://extensy.dev)** — describe what you want, get a fully working browser extension and get it published.
 
-## stack
+---
+
+### stack
 
 ![Next.js](https://img.shields.io/badge/next.js-07110c?style=for-the-badge&logo=nextdotjs&logoColor=dfffee)
 ![TypeScript](https://img.shields.io/badge/typescript-123120?style=for-the-badge&logo=typescript&logoColor=eafff2)
