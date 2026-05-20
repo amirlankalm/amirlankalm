@@ -1,4 +1,4 @@
-# yo, i'm amirlan
+# hi, i'm amirlan
 
 **15 y/o cto & co-founder @ [extensy](https://extensy.dev)**  
 
