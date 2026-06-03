@@ -29,4 +29,4 @@
 
 ---
 
-*try extensy out pls, and if u dm me on insta or x i can give u credits*
+*try extensy out pls, and if you dm me on insta or x i can give u credits*
