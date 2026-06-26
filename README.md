@@ -4,12 +4,6 @@
 
 ---
 
-### what i'm building
-
-**[extensy](https://extensy.dev)** — describe what you want, get a fully working browser extension and get it published.
-
----
-
 ### stack
 
 ![Next.js](https://img.shields.io/badge/next.js-07110c?style=for-the-badge&logo=nextdotjs&logoColor=dfffee)
@@ -28,5 +22,3 @@
 [![Instagram](https://img.shields.io/badge/instagram-08110c?style=for-the-badge&logo=instagram&logoColor=eafff2&labelColor=030705&color=266549)](https://instagram.com/amirkasobased)
 
 ---
-
-*try extensy out pls, and if u dm me on insta or x i can give u credits*
