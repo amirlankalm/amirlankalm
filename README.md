@@ -1,24 +1,3 @@
 # hi, i'm amirlan
 
 **15 y/o founding engineer @ [speko (yc s26)](https://speko.ai)**  
-
----
-
-### stack
-
-![Next.js](https://img.shields.io/badge/next.js-07110c?style=for-the-badge&logo=nextdotjs&logoColor=dfffee)
-![TypeScript](https://img.shields.io/badge/typescript-123120?style=for-the-badge&logo=typescript&logoColor=eafff2)
-![PostgreSQL](https://img.shields.io/badge/postgresql-163826?style=for-the-badge&logo=postgresql&logoColor=eafff2)
-![AWS](https://img.shields.io/badge/aws-1a4330?style=for-the-badge&logo=amazonwebservices&logoColor=f0fff6)
-![C++](https://img.shields.io/badge/c++-173625?style=for-the-badge&logo=cplusplus&logoColor=eafff2)
-![Node.js](https://img.shields.io/badge/node.js-20533a?style=for-the-badge&logo=nodedotjs&logoColor=f0fff6)
-![Python](https://img.shields.io/badge/python-183927?style=for-the-badge&logo=python&logoColor=f0fff6)
-
----
-
-### find me
-
-[![X](https://img.shields.io/badge/x-08110c?style=for-the-badge&logo=x&logoColor=eafff2&labelColor=030705&color=1c4a34)](https://x.com/amirlankalm)
-[![Instagram](https://img.shields.io/badge/instagram-08110c?style=for-the-badge&logo=instagram&logoColor=eafff2&labelColor=030705&color=266549)](https://instagram.com/amirkasobased)
-
----
